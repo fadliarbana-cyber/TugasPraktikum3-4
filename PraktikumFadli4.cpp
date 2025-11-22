@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+
 int main() {
 	double nilai;
 	cout << "Program Penentuan Nilai Mutu" << endl;
@@ -29,4 +30,5 @@ int main() {
 		cout << "Keterangan: Tinggal kelas" << endl;
 	}
 	return 0;
+
 }
